@@ -3,7 +3,7 @@ def profile():
     name = "Bridge34"
     email = "biohunterbridge@gmail.com"
     location = "Rwanda"
-    skills = ["Linux", "Git", "Kali Linux", "Bash", "Python", "NixOS (learning)"]
+    skills = ["Linux", "Git", "Kali Linux", "Bash", "Python"]
     projects = ["my-first-git", "Security-lab (coming soon)", "Portfolio demo"]
 
     print("=== Bridge34 Portfolio Script ===")
